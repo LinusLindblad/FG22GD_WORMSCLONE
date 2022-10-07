@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3f594a42701deb14d9d0a293ffbaa086
+  - enabled: 0
+    path: Assets/Scenes/WormLevel.unity
+    guid: d55cfca031a595f4d825948c66b3c31a
+  - enabled: 1
+    path: Assets/Scenes/TestOutdoors.unity
+    guid: edb4e5beb56a4854b981831d27f591f5
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: 6a6bb2ca7534cd346afd81df6e8b24b6
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: d6e824746ea7ba14fa51c38a17297650, type: 2}
