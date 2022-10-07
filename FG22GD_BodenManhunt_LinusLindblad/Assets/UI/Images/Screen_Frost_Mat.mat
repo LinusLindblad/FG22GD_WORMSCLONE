@@ -102,7 +102,7 @@ Material:
     - _TransparentWritingMotionVec: 0
     - _TransparentZWrite: 0
     - _UseShadowThreshold: 0
-    - _Warmth: 0.101141684
+    - _Warmth: 1.8572422
     - _ZTestDepthEqualForOpaque: 0
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 0
